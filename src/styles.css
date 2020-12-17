@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Langar&display=swap");
+
+html {
+  background-color: #f29d52;
+}
+
+.App {
+  font-family: "JetBrains Mono", monospace;
+  text-align: center;
+  color: #221f26;
+}
+h1 {
+  font-family: "Langar", cursive;
+}
+h2 {
+  background-color: #f2e0d0;
+}
+.btn {
+  padding: 1rem;
+  margin: 1rem auto;
+  background-color: #221f26;
+  border: solid #f2e0d0;
+  color: #f2e0d0;
+  font-size: larger;
+  width: 15%;
+}
+.country-card {
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  height: 450px;
+  border: solid #f2e0d0;
+}
+.country-info {
+  /* border: solid #f2e0d0; */
+  position: relative;
+  width: 47%;
+  float: right;
+  height: 100%;
+  padding: 0.5rem;
+}
+
+.photo {
+  width: 47%;
+  float: left;
+  display: block;
+  text-align: center;
+  height: 100%;
+  /* padding-bottom: 10000px;
+  margin-bottom: -10000px; */
+}
+.photo img {
+  padding: 1rem;
+  /* border: solid #f2e0d0;  */
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+footer {
+  background-color: #221f26;
+  padding: 2.5rem;
+  margin-top: 4px;
+  border-radius: 5px;
+  text-align: center;
+  color: #f2e0d0;
+  font-weight: bold;
+}
+footer a {
+  text-decoration: none;
+  color: #f2e0d0;
+  border: 1px solid #f2e0d0;
+  padding: 0.5rem;
+}
