@@ -12,7 +12,7 @@ export const countryData = {
       name: "Thailand",
       capital: "Bangkok",
       photo:
-        "https://images.unsplash.com/photo-1582468546235-9bf31e5bc4a1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=401&q=80",
+        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
       description:
         "Thanks to its breathtaking beaches, glittering temples, and welcoming population, Thailand is a very popular tourist destination. Fittingly enough, it is often called ‘the Land of Smiles.’ While Bangkok has lots of fantastic cuisine and nightlife on offer, Chiang Mai and Chiang Rai are home to some of the nation’s most famous temples. Further afield, you can find wild jungle, picturesque paddy fields, and quiet and secluded towns and villages. Lying in between the Andaman Sea and the Gulf of Thailand, its golden sands and underwater marvels attract hordes of people every year. Many also come to party in its beachside towns, visit idyllic islands such as Ko Tao, or enjoy the stunning scenery at Krabi."
     },
@@ -20,7 +20,7 @@ export const countryData = {
       name: "Japan",
       capital: "Tokyo",
       photo:
-        "https://images.unsplash.com/photo-1491884662610-dfcd28f30cfb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+        "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
       description:
         "Although it consists of almost 7,000 islands, most of Japan’s main sights and tourist attractions can be found on Hokkaido, Honshu, Kyushu, and Shikoku. These are the four largest of them. Lying to the east of mainland Asia, the island nation is a fascinating place as old and new collide wherever you go. While the futuristic metropolises of Tokyo and Yokohama are full of skyscrapers and neon lights, Kyoto and Nara instead boast traditional palaces and age-old temples. Covered in mountains and forests, the country is also home to some delightful nature and scenery. This explains why the vast majority of its large population is found in the densely populated cities that hug its long and indented coastline."
     },
@@ -102,50 +102,52 @@ export const countryData = {
   ],
   SouthAmerica: [
     {
-      name: "Brazil",
-      capital: "Delhi",
-      photo: "https://www.holidify.com/country/india/",
+      name: "Costa Rica",
+      capital: "San José",
+      photo:
+        "https://images.unsplash.com/photo-1580094333632-438bdc04f79f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
       description:
-        "India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."
+        "Costa Rica — like so many countries in Latin America — is tailor-made for nature lovers. It’s an incredibly diverse place when it comes to natural scenery. You’ll find everything from unspoiled beaches to cloud forests, pristine jungles, and towering volcanos here. Touring the rainforests in Costa Rica is a vacation highlight for many, as monkeys, jaguars, toucans, and other wildlife can be spotted. The urban character also varies here, with towns that range from lively resort areas to sandy-foot backpacker spots and traditional villages, not to mention some of the best surfing in Central America."
     },
     {
-      name: "Brazil",
-      capital: "Delhi",
-      photo: "https://www.holidify.com/country/india/",
+      name: "Peru",
+      capital: "Lima",
+      photo:
+        "https://images.unsplash.com/photo-1526392060635-9d6019884377?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
       description:
-        "India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."
+        "f you’re thinking of going to Peru for the first time, you probably have one thing in mind. The country is home to the mother of all archaeological ruins: Machu Picchu. You’ll find beautiful beaches, incredible surfing, untouched jungles, and dazzling cities. With that in mind, Lima should be high on your list of must-visit destinations in Peru. It’s cliff-flanked coastline will have you feeling beachy in no time, though it’s the city itself that’s proving exciting to travelers these days. The arts scene is booming, along with Lima’s already epic foodie scene (which is always best complimented by a pisco sour, and goes far beyond the internationally famous ceviche). There are also markets and shopping galore"
     }
   ],
   Africa: [
     {
-      name: "Ghana",
-      capital: "Delhi",
-      photo: "https://www.holidify.com/country/india/",
+      name: "Morocco",
+      capital: "Barat",
+      photo: "https://images.unsplash.com/photo-1545167496-534a7d21d6a2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=710&q=80",
       description:
-        "India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."
+        "A magical place to visit, Morocco is home to a mesmerizing array of beautiful old cities, medinas, and souks. These lie along the country’s scenic Atlantic and Mediterranean coastlines or tucked away amongst the Saharan dunes and High Atlas mountains. The continent’s north-westernmost country has long attracted different peoples and cultures to its shores, and its rich heritage now draws on African, Arabic, Berber, and Western influences. This amazing diversity is on show wherever you go, with Essaouira, Fez, and Marrakech being some of its most popular tourist destinations. Besides exploring the lively Djemaa El Fna and gorgeous mountain city of Chefchaouen, visitors can lounge on one of the country’s lovely beaches or head off into the Sahara."
     },
     {
-      name: "Ghana",
-      capital: "Delhi",
-      photo: "https://www.holidify.com/country/india/",
+      name: "Seychelles",
+      capital: "Victoria",
+      photo: "https://images.unsplash.com/photo-1607198387595-d47e8346a86f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=785&q=80",
       description:
-        "India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."
+        "Lying some 1,500 kilometers to the east of mainland Africa, Seychelles is the continent’s smallest and least populous country. While the paradise islands are lined with gorgeous beaches, their interiors are quite mountainous and coated in lush rainforest. Due to their remote location, they are home to all kinds of unique fauna and flora, and most of them are now designated nature reserves. Offshore, the colorful coral reefs and abundant marine life makes Seychelles an unforgettable place to go scuba diving or snorkeling. On Mahe, the largest of the islands, you can find lots of luxury resorts, bars, and restaurants, as well as the nation’s capital, Victoria. From here, you can easily take a boat trip to some of the more secluded islands and beaches that lie nearby."
     }
   ],
   Australia: [
     {
       name: "Australia",
-      capital: "Delhi",
-      photo: "https://www.holidify.com/country/india/",
+      capital: "Canberra",
+      photo: "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=751&q=80",
       description:
-        "India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."
+        "Australia is a land of dreams. From the sacred legends of the aboriginal Dreamtime, when the great spirits conjured the coral reefs, rainforests, and scorched red deserts, to armchair travelers who describe Australia as their dream destination, the Land Down Under deserves all the hype. The world's smallest continent and largest island, Australia is almost the same size as the United States but with a population the size of New York State and some of the quirkiest wildlife on the planet. Australia is also a land of staggering contrasts and spectacular beauty. Along the coast, you can explore vibrant multicultural cities, vast sand islands, ancient rainforests, and one of the planet's most awe-inspiring natural wonders - the Great Barrier Reef. In the Outback, rugged national parks and red-earthed deserts offer the ultimate in adventure travel."
     },
     {
-      name: "Australia",
-      capital: "Delhi",
-      photo: "https://www.holidify.com/country/india/",
+      name: "New Zealand",
+      capital: "Wellington",
+      photo: "https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
       description:
-        "India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."
+        "The dazzling island nation of New Zealand is located the southwestern Pacific Ocean. Comprising of two main landmasses of North and the South Island. The beauty of its divine landscapes will swathe your senses. The Fiordland National Park and Milford Sound in South Island is a breathtaking paradise that gives you the opportunity to hike and walk amid the serene beauty of cascading glaciers, virgin forests, and edgy mountain peaks. Sea Kayaking is a great way to explore the fjords, and a scenic flight gives you the option to explore the park’s beauty from a bird’s eye view. The Bay of Islands famous for sailing and yachting is also a favorite spot for the fishing sport. Lake Taupo and Tongariro National Park is one of the oldest national parks in the world with enchanting beauty; it is perfect for walking through the alpine meadows and bathing in its wet hot springs."
     }
   ]
 };
